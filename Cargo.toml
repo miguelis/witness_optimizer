@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "optimizer",
+    "circom_algebra",
+    "constraint_list",
+    "constraint_writers",
+    "constant_tracking"
+]
+
